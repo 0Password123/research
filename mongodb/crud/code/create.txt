@@ -1,0 +1,1 @@
+mvn archetype:create -DgroupId=com.github.hubin0011 -DartifactId=research_mongodb_crud -DarchetypeArtifactId=maven-archetype-quickstart

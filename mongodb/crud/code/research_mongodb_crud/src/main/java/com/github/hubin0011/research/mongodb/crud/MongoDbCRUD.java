@@ -1,4 +1,4 @@
-package com.github.hubin0011.research.mongodb.curd;
+package com.github.hubin0011.research.mongodb.crud;
 
 import java.util.List;
 
